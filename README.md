@@ -8,6 +8,7 @@ STEPS TO RUN
 5. npm i react-sparklines
 
 NOTE:- 
-1. Must be viewed in (1440 x 1294) resolution (Responsiveness can be done, design not available in FIGMA)
-2. API call is done (Response is recieved from CoinGecko website) -> https://www.coingecko.com/en/api/documentation
-3. Images are exported from FIGMA
+1. API call is done (Response is received from CoinGecko website) -> https://www.coingecko.com/en/api/documentation.
+2. Sparkline NPM module is used for displaying charts in Crypto Price Tracker.
+3. Must be viewed in (1440 x 1294) resolution (Responsiveness can be done, design not available in FIGMA).
+4. Images are exported from FIGMA.
