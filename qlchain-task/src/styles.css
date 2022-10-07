@@ -29,7 +29,7 @@ a {
   align-items: center;
   padding: 0px;
   gap: 8px;
-
+  cursor: pointer;
   position: absolute;
   width: 116.7px;
   height: 40px;
@@ -88,6 +88,7 @@ a {
   left: 345px;
   top: 23px;
   display: flex;
+  cursor: pointer;
   align-items: center;
 }
 
@@ -140,7 +141,7 @@ a {
   align-items: center;
   padding: 0px 24px;
   gap: 8px;
-
+  cursor: pointer;
   position: absolute;
   width: 92px;
   height: 40px;
@@ -175,7 +176,7 @@ a {
 
 .gStarted p {
   position: absolute;
-
+  cursor: pointer;
   right: 135px;
   top: 20px;
 
@@ -291,7 +292,7 @@ a {
   height: 56px;
   left: 131px;
   top: 538px;
-
+  cursor: pointer;
   background: #6408ac;
   box-shadow: 4px 4px 24px #d094ff;
   border-radius: 4px;
@@ -587,11 +588,13 @@ a {
 .th-Seq {
   position: absolute;
   left: 48px;
+  cursor: pointer;
 }
 
 .th-CN {
   position: absolute;
   left: 195px;
+  cursor: pointer;
 }
 
 .th-CN .dropup {
@@ -602,6 +605,7 @@ a {
 .th-P {
   position: absolute;
   left: 470px;
+  cursor: pointer;
 }
 .th-P .dropup {
   position: absolute;
@@ -611,6 +615,7 @@ a {
 .th-C {
   position: absolute;
   left: 640px;
+  cursor: pointer;
 }
 .th-C .dropup {
   position: absolute;
@@ -620,10 +625,12 @@ a {
 .th-Cha {
   position: absolute;
   right: 350px;
+  cursor: pointer;
 }
 .th-Q {
   position: absolute;
   right: 130px;
+  cursor: pointer;
 }
 .th-Q img {
   position: absolute;
