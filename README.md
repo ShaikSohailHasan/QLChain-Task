@@ -20,4 +20,4 @@ V1.1:-
 4. Images are exported from FIGMA.
 
 V1.2:-
-1. Sorting logic implemented on 4 Headers (Seq, Name, Price, Change).
+1. Sorting logic implemented on 4 Table Headers (Seq, Name, Price, Change).
