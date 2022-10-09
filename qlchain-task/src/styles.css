@@ -233,10 +233,10 @@ a {
 
 .portfolio-arrow img {
   position: absolute;
-  width: 15px;
-  height: 11px;
-  left: 89.12%;
-  right: 2.38%;
+  width: 18px;
+  height: 14px;
+  left: 86.12%;
+  right: 19.38%;
   top: 26.46%;
   bottom: 26.46%;
 }
@@ -328,10 +328,10 @@ a {
   position: absolute;
   left: 80.78%;
   right: 13.49%;
-  top: 39.91%;
+  top: 36.91%;
   bottom: 39.91%;
-  height: 11px;
-  width: 15px;
+  height: 14px;
+  width: 18px;
 
   /* White/100 */
 }
@@ -342,6 +342,7 @@ a {
   height: 434.98px;
   left: 0px;
   top: 420px;
+  z-index: -1;
 }
 
 .mac-studio {
@@ -644,13 +645,8 @@ a {
   display: grid;
 }
 .table-header img {
-  width: 8.8px;
-  height: 4.4px;
-}
-
-.dropup {
-  position: absolute;
-  position: absolute;
-  left: 29px;
-  top: 5px;
+  width: 9px;
+  height: 5px;
+  padding-left: 5px;
+  padding-bottom: 2.5px;
 }
