@@ -6,6 +6,7 @@ STEPS TO RUN
 3. then -> cd qlchain-task
 4. npm i 
 5. npm i react-sparklines
+6. npm start
 
 NOTE:- 
 
